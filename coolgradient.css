@@ -1,3 +1,15 @@
 body {
     background: linear-gradient(135deg, #1DE9B6 0%, #2979FF 100%);
 }
+
+
+.banner {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3681cd+0,5bbae6+50,3681cd+100 */
+    background: #3681cd;
+    background: -moz-linear-gradient(left, #3681cd 0%, #5bbae6 50%, #3681cd 100%);
+    background: -webkit-linear-gradient(left, #3681cd 0%, #5bbae6 50%, #3681cd 100%);
+    background: linear-gradient(to right, #3681cd 0%, #5bbae6 50%, #3681cd 100%);
+    background-repeat: no-repeat;
+}
